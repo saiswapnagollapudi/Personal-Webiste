@@ -35,7 +35,7 @@ function App() {
         </p>
         <p>
           📧 saiswapnagollapudi@gmail.com <br />
-          🔗 <a href="https://www.linkedin.com/in/sai-swapna-gollapudi-316a83a2/" target="_blank">LinkedIn</a>
+          🔗 <a href="https://www.linkedin.com/in/sai-swapna-gollapudi-316a83a2/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </p>
       </header>
 
